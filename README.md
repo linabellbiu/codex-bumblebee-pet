@@ -4,6 +4,8 @@ An unofficial, fan-made Bumblebee animated pet for the Codex desktop app.
 
 这是一个供 Codex 桌面应用使用的非官方大黄蜂动画宠物。
 
+**[View Bumblebee on PetDex / 在 PetDex 查看大黄蜂](https://petdex.dev/pets/bumblebee-2)**
+
 ![Animation contact sheet](preview/contact-sheet.png)
 
 ## Features / 功能
